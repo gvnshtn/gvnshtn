@@ -18,6 +18,13 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 - ☕ I love a [coffee](https://www.buymeacoffee.com/gvnshtn) :D
 - 😄 Pronouns: he/him
 
+## Where I exist upon The Internet
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gvnshtn)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gvnshtn/)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/gvnshtn)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.gvnshtn.com)
+
 ## Recent blogs
 
 <!--START_SECTION:posts-->
@@ -27,6 +34,6 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 
 ## Places to find me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gvnshtn) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gvnshtn/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/gvnshtn) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.gvnshtn.com)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gvnshtn&show_icons=true)
