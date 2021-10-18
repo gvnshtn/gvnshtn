@@ -8,18 +8,23 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 
 - 🌍 I am based in the UK. Post-Brexit, and I'm pro-EU - send help 🏳️
 - 💻 I’m currently working on a roadmap and framework to address ransomware.
-- 🌱 I’m currently studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
+- 🌱 Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
 - 🚀 Check out my small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)
 - 📃 You can see the list of the certifications I'm targetting at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).
 - 👯 I’m looking to collaborate on anything to help make stuff safer.
-- 🎵 If I'm not listening to [Spotify](https://open.spotify.com/user/gavinashton) or attending Teams calls, I've recently discovered [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
+- 🎵 When I'm not on Teams calls I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and able to achieve flow 
 - 💬 Ask me about Passwordless, the CyberSecurity Reference Architectures, Cloud Adoption Framework, Well Architected Framework, Enterprise Access Model, Tiered Access Model.
 - 🐦 Best way to find me is on Twitter, [@gvnshtn](https://twitter.com/gvnshtn).
 - ☕ I love a [coffee](https://www.buymeacoffee.com/gvnshtn) :D
 - 😄 Pronouns: he/him
 
 ## Where I exist upon The Internet
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/github-32.png' alt='github' width='32'>](https://github.com/gvnshtn) . [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-32.png' alt='linkedin' width='32'>](https://www.linkedin.com/in/gvnshtn/) . [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-32.png' alt='Twitter' width='32'>](https://twitter.com/gvnshtn) . [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-32.png' alt='YouTube' width='32'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ) . [<img src='https://cdn1.iconfinder.com/data/icons/office-7/32/newspaper-32.png' alt='Blog'  width='32'>](https://www.gvnshtn.com)
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/github-32.png' alt='github' width='32'>](https://github.com/gvnshtn) &nbsp;&nbsp;
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-32.png' alt='linkedin' width='32'>](https://www.linkedin.com/in/gvnshtn/) &nbsp;&nbsp;
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-32.png' alt='Twitter' width='32'>](https://twitter.com/gvnshtn) &nbsp;&nbsp;
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-32.png' alt='YouTube' width='32'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ) &nbsp;&nbsp;
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/spotify-32.png' alt='Spotify' width='32'>](https://open.spotify.com/user/gavinashton) &nbsp;&nbsp;
+[<img src='https://cdn1.iconfinder.com/data/icons/office-7/32/newspaper-32.png' alt='Blog'  width='32'>](https://www.gvnshtn.com)
 
 ## Recent blogs
 
