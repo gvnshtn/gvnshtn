@@ -6,7 +6,7 @@ Gavin is a senior security cloud solution architect at Microsoft. In the late 90
 
 When away from his desk Gavin is having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
 
-- 🌍 I am based in the UK. Our prime minister is insane, send help 🏳️
+- 🌍 I am based in the UK.
 - 💻 I’m currently working on a roadmap and framework to address ransomware.
 - 🌱 I’m currently studying to pass [SC-200](http://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
 - 🚀 Check out my small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)
@@ -17,6 +17,8 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 - 🐦 Best way to find me is on Twitter, [@gvnshtn](https://twitter.com/gvnshtn).
 - ☕ I love a [coffee](https://www.buymeacoffee.com/gvnshtn) :D
 - 😄 Pronouns: he/him
+- Pro-EU ![VoteVoltEuropeGIF](https://user-images.githubusercontent.com/8502046/137765343-9c391d04-6de2-449f-a505-8d9764d3dc4f.gif)
+, please send help 🏳️
 
 ## Recent blogs
 
