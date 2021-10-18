@@ -6,7 +6,8 @@ Gavin is a senior security cloud solution architect at Microsoft. In the late 90
 
 When away from his desk Gavin is having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
 
-- 🔭 I’m currently working on a roadmap and framework to address ransomware.
+- 🌍 I am based in the UK. Our prime minister is insane, send help 🏳️
+- 💻 I’m currently working on a roadmap and framework to address ransomware.
 - 🌱 I’m currently studying to pass [SC-200](http://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
 - 🚀 Check out my small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)
 - 📃 I've made a list of the certifications I'm targetting at [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).
