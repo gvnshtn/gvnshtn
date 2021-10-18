@@ -8,7 +8,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 
 - 🌍 I am based in the UK post-Brexit and pro-EU, please send help 🏳️
 - 💻 I’m currently working on a roadmap and framework to address ransomware.
-- 🌱 I’m currently studying to pass [SC-200](http://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
+- 🌱 I’m currently studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
 - 🚀 Check out my small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)
 - 📃 You can see the list of the certifications I'm targetting at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).
 - 👯 I’m looking to collaborate on anything to help make stuff safer.
