@@ -21,9 +21,10 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/github-32.png' alt='github' width='32'>](https://github.com/gvnshtn) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-32.png' alt='linkedin' width='32'>](https://www.linkedin.com/in/gvnshtn/) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-32.png' alt='Twitter' width='32'>](https://twitter.com/gvnshtn) &nbsp;&nbsp;
+[<img src='https://cdn1.iconfinder.com/data/icons/office-7/32/newspaper-32.png' alt='Blog'  width='32'>](https://www.gvnshtn.com)
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-32.png' alt='YouTube' width='32'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/spotify-32.png' alt='Spotify' width='32'>](https://open.spotify.com/user/gavinashton) &nbsp;&nbsp;
-[<img src='https://cdn1.iconfinder.com/data/icons/office-7/32/newspaper-32.png' alt='Blog'  width='32'>](https://www.gvnshtn.com)
+
 
 ## Recent blogs
 
