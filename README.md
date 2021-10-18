@@ -6,7 +6,7 @@ Gavin is a senior security cloud solution architect at Microsoft. In the late 90
 
 When away from his desk Gavin is having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
 
-🌍 I am based in the UK. Post-Brexit, and I'm pro-EU - send help 🏳️<br>
+🌍 &nbsp;&nbsp;&nbsp; I am based in the UK. Post-Brexit, and I'm pro-EU - send help 🏳️<br>
 🙂 I like to think I offer expertise, candour and credibility.<br>
 💻 I’m currently working on a roadmap and framework to address ransomware.<br>
 🌱 Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)<br>
