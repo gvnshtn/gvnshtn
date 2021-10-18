@@ -10,7 +10,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 - 🌱 I’m currently studying to pass [SC-200](http://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
 - 👯 I’m looking to collaborate on anything to help make stuff safer.
 - 💬 Ask me about Passwordless, the CyberSecurity Reference Architectures, Cloud Adoption Framework, Well Architected Framework, Enterprise Access Model, Tiered Access Model.
-- 📫 Find me twittering [@gvnshtn](https://twitter.com/gvnshtn) or LinkedIn at [Gavin Ashton](https://www.linkedin.com/in/gvnshtn/)
+- 🐦 Best way to find me is on Twitter, [@gvnshtn](https://twitter.com/gvnshtn).
 - 😄 Pronouns: he/him
 
 ## Recent blogs
