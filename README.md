@@ -7,14 +7,15 @@ Gavin is a senior security cloud solution architect at Microsoft. In the late 90
 When away from his desk Gavin is having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
 
 - 🌍 I am based in the UK. Post-Brexit, and I'm pro-EU - send help 🏳️
+- 🙂 I like to think I offer expertise, candour and credibility.
 - 💻 I’m currently working on a roadmap and framework to address ransomware.
 - 🌱 Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
-- 🚀 Check out my small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)
-- 📃 You can see the list of the certifications I'm targetting at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).
-- 👯 I’m looking to collaborate on anything to help make stuff safer.
-- 🎵 When I'm not on Teams calls I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and able to achieve flow 
+- 🚀 My small but growing collection of qualifications is at [Credly](https://www.credly.com/users/gvnshtn/badges)
+- 📃 The list of the certifications I'm targetting is at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).
+- 🎵 When I'm not on Teams calls or [Spotify](https://open.spotify.com/user/gavinashton), I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and able to achieve flow.
 - 💬 Ask me about Passwordless, the CyberSecurity Reference Architectures, Cloud Adoption Framework, Well Architected Framework, Enterprise Access Model, Tiered Access Model.
 - 🐦 Best way to find me is on Twitter [@gvnshtn](https://twitter.com/gvnshtn).
+
 - 😄 Pronouns: he/him
 
 ## Where I exist upon The Internet
