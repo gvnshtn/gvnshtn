@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Gavin
+# Hello there, my name is Gavin
 
 ## I'm a security architect at Microsoft
 
