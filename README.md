@@ -19,7 +19,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
  &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about [ransomware](https://aka.ms/ransomware), [Azure AD](https://aka.ms/azureAD), [passwordless](https://aka.ms/gopasswordless), the [MCRA](https://aka.ms/mcra), [CAF](https://aka.ms/CAF), [WAF](https://aka.ms/WAF), [Enterprise Access Model](https://aka.ms/EAM).<br>
  &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is on Twitter [@gvnshtn](https://twitter.com/gvnshtn).<br>
  &nbsp;&nbsp;&nbsp; 😄 &nbsp;&nbsp;&nbsp; Pronouns: he/him<br>
-
+<br><br>
 ## Where I exist upon The Internet
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/github-32.png' alt='github' width='32'>](https://github.com/gvnshtn) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-32.png' alt='linkedin' width='32'>](https://www.linkedin.com/in/gvnshtn/) &nbsp;&nbsp;
