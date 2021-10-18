@@ -19,11 +19,11 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 - 😄 Pronouns: he/him
 
 ## Where I exist upon The Internet
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gvnshtn)
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gvnshtn/)
-- [img](https://twitter.com/gvnshtn)
+- [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/github-32.png' alt='github' height='40'>](https://github.com/gvnshtn)
+- [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-32.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/gvnshtn/)
+- [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-32.png' alt='Twitter'>](https://twitter.com/gvnshtn)
 - [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-32.png' alt='YouTube'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ)
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.gvnshtn.com)
+- [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-32.png' alt='website' height='40'>](https://www.gvnshtn.com)
 
 ## Recent blogs
 
