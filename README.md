@@ -22,7 +22,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gvnshtn)
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gvnshtn/)
 - [img](https://twitter.com/gvnshtn)
-- [<img src='	https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ)
+- [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png' alt='YouTube'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ)
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.gvnshtn.com)
 
 ## Recent blogs
