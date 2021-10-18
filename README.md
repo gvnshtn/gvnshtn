@@ -11,7 +11,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
  &nbsp;&nbsp;&nbsp; 💻 &nbsp;&nbsp;&nbsp; I’m currently working on a roadmap and framework to address ransomware.<br>
  &nbsp;&nbsp;&nbsp; 📖 &nbsp;&nbsp;&nbsp; Check out my [manual](https://aka.ms/ManualForGFA)<br>
  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;&nbsp;&nbsp; Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)<br>
- &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; My small but growing collection of qualifications is at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
+ &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; My small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
  &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; The list of the certifications I'm targetting is at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
  &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When I'm not on Teams calls or [Spotify](https://open.spotify.com/user/gavinashton), I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and able to achieve flow.<br>
  &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about [ransomware](https://aka.ms/ransomware), [Azure AD](https://aka.ms/azureAD), [passwordless](https://aka.ms/gopasswordless), the [MCRA](https://aka.ms/mcra), [CAF](https://aka.ms/CAF), [WAF](https://aka.ms/WAF), [Enterprise Access Model](https://aka.ms/EAM).<br>
