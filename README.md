@@ -9,6 +9,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
  &nbsp;&nbsp;&nbsp; 🌍 &nbsp;&nbsp;&nbsp; I am based in the UK. Post-Brexit, and I'm pro-EU - send help 🏳️<br>
  &nbsp;&nbsp;&nbsp; 🙂 &nbsp;&nbsp;&nbsp; I like to think I offer expertise, candour and credibility.<br>
  &nbsp;&nbsp;&nbsp; 💻 &nbsp;&nbsp;&nbsp; I’m currently working on a roadmap and framework to address ransomware.<br>
+ &nbsp;&nbsp;&nbsp; 📖 &nbsp;&nbsp;&nbsp; Check out my [manual](https://aka.ms/ManualForGFA)<br>
  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;&nbsp;&nbsp; Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)<br>
  &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; My small but growing collection of qualifications is at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
  &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; The list of the certifications I'm targetting is at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
