@@ -13,7 +13,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
  &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; My small but growing collection of qualifications is at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
  &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; The list of the certifications I'm targetting is at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
  &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When I'm not on Teams calls or [Spotify](https://open.spotify.com/user/gavinashton), I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and able to achieve flow.<br>
- &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about Passwordless, the CyberSecurity Reference Architectures, Cloud Adoption Framework, Well Architected Framework, Enterprise Access Model, Tiered Access Model.<br>
+ &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about ransomware, passwordless, the CSRA, CAF, WAF, Enterprise Access Model, Tiered Access Model.<br>
  &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is on Twitter [@gvnshtn](https://twitter.com/gvnshtn).<br>
  &nbsp;&nbsp;&nbsp; 😄 &nbsp;&nbsp;&nbsp; Pronouns: he/him<br>
 
