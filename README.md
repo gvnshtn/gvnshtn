@@ -8,7 +8,10 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 
 - 🔭 I’m currently working on a roadmap and framework to address ransomware.
 - 🌱 I’m currently studying to pass [SC-200](http://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)
+- 🚀 Check out my small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)
+- 📃 I've made a list of the certifications I'm targetting at [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).
 - 👯 I’m looking to collaborate on anything to help make stuff safer.
+- If I'm not listening to [Spotify](https://open.spotify.com/user/gavinashton) or attending Teams calls, I've recently discovered [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
 - 💬 Ask me about Passwordless, the CyberSecurity Reference Architectures, Cloud Adoption Framework, Well Architected Framework, Enterprise Access Model, Tiered Access Model.
 - 🐦 Best way to find me is on Twitter, [@gvnshtn](https://twitter.com/gvnshtn).
 - 😄 Pronouns: he/him
