@@ -14,8 +14,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 - 👯 I’m looking to collaborate on anything to help make stuff safer.
 - 🎵 When I'm not on Teams calls I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and able to achieve flow 
 - 💬 Ask me about Passwordless, the CyberSecurity Reference Architectures, Cloud Adoption Framework, Well Architected Framework, Enterprise Access Model, Tiered Access Model.
-- 🐦 Best way to find me is on Twitter, [@gvnshtn](https://twitter.com/gvnshtn).
-- ☕ I love a [coffee](https://www.buymeacoffee.com/gvnshtn) :D
+- 🐦 Best way to find me is on Twitter [@gvnshtn](https://twitter.com/gvnshtn).
 - 😄 Pronouns: he/him
 
 ## Where I exist upon The Internet
