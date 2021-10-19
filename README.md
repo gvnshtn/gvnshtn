@@ -34,3 +34,4 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 * [Joining Microsoft](https://gvnshtn.com/joining-microsoft/)
 <!--END_SECTION:posts-->
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
