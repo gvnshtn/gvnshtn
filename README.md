@@ -33,5 +33,8 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 * [How multi-factor authentication empowers secure hybrid working](https://cloudblogs.microsoft.com/industry-blog/en-gb/cross-industry/2021/09/01/how-multi-factor-authentication-empowers-secure-hybrid-working/)
 * [Joining Microsoft](https://gvnshtn.com/joining-microsoft/)
 <!--END_SECTION:posts-->
-
+<br>
+<br>
+<br> 
+<br>
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.gvnshtn)
