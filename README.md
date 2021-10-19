@@ -8,16 +8,16 @@ Gavin is a senior security cloud solution architect at Microsoft. In the late 90
 
 When away from his desk Gavin is having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
 
- &nbsp;&nbsp;&nbsp; 🌍 &nbsp;&nbsp;&nbsp; I am based in the UK. Post-Brexit, and I'm pro-EU - send help 🏳️<br>
+ &nbsp;&nbsp;&nbsp; 🌍 &nbsp;&nbsp;&nbsp; Based in the UK. Pro-EU - send help 🏳️<br>
  &nbsp;&nbsp;&nbsp; 🙂 &nbsp;&nbsp;&nbsp; I like to think I offer expertise, candour and credibility.<br>
- &nbsp;&nbsp;&nbsp; 💻 &nbsp;&nbsp;&nbsp; I’m currently working on a roadmap and framework to address ransomware.<br>
+ &nbsp;&nbsp;&nbsp; 💻 &nbsp;&nbsp;&nbsp; Working on a roadmap and framework to address ransomware.<br>
  &nbsp;&nbsp;&nbsp; 📖 &nbsp;&nbsp;&nbsp; Check out my [manual](https://aka.ms/ManualForGFA)<br>
  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;&nbsp;&nbsp; Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)<br>
- &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; My small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
- &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; The list of the certifications I'm targetting is at this [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
- &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When I'm not on Teams calls or [Spotify](https://open.spotify.com/user/gavinashton), I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and able to achieve flow.<br>
+ &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; Small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
+ &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; List of the certifications I'm targetting listed in my [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
+ &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When not on Teams calls or listening to [Spotify](https://open.spotify.com/user/gavinashton), I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and promotes flow.<br>
  &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about [ransomware](https://aka.ms/ransomware), [Azure AD](https://aka.ms/azureAD), [passwordless](https://aka.ms/gopasswordless), the [MCRA](https://aka.ms/mcra), [CAF](https://aka.ms/CAF), [WAF](https://aka.ms/WAF), [Enterprise Access Model](https://aka.ms/EAM).<br>
- &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is on Twitter [@gvnshtn](https://twitter.com/gvnshtn).<br>
+ &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is probably on Twitter [@gvnshtn](https://twitter.com/gvnshtn).<br>
  &nbsp;&nbsp;&nbsp; 😄 &nbsp;&nbsp;&nbsp; Pronouns: he/him<br>
 <br><br>
 ## Where I exist upon The Internet
