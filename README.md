@@ -36,4 +36,4 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
 <br>
 <br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=gvnshtn.gvnshtn" style="max-width: 100%;">
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gvnshtn.gvnshtn)](https://github.com/gvnshtn) [![GitHub followers](https://img.shields.io/github/followers/gvnshtn.svg?style=social&label=Follow)](https://github.com/gvnshtn?tab=followers)
+<br>
