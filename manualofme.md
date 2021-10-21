@@ -9,7 +9,7 @@ phone, or call/chat via Teams. If I am able to respond, I absolutely will. Other
 am presenting or something, I'll catch up with you later on in the day as soon as
 possible.
 
-If you're the social type, you can also find links to my socials at my [GitHub](https://github.com/gvnshtn) readme.
+If you're the social type, you can also find links to my socials at my [readme](https://github.com/gvnshtn).
 
 ### My approach to email
 
