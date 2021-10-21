@@ -73,4 +73,4 @@ B, and C. I enjoy working in diverse teams with people who might have differing
 backgrounds and opinions to my own, I believe this provides all parties with an
 opportunity to learn and grow.
 
-## Thank you
+**Thank you**
