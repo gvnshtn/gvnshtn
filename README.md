@@ -2,7 +2,7 @@
 
 # Hello there, my name is Gavin
 
-## I'm a husband, father, and security architect at Microsoft
+## I'm a husband, father, and security architect. I work at Microsoft.
 
 Gavin is a senior security cloud solution architect at Microsoft. In the late 90's he found himself administersting users in an NT4 domain. Little did he know this would take him on a journey through Active Directory, MIIS/ILM/FIM/MIM, Azure AD and onwards. He's seen all kinds of merger and aquisition scenarios. Highly secure architectures. Transformation activities. Most notably he was at ground zero at Maersk when [notPetya struck in 2017](https://gvnshtn.com/maersk-me-notpetya/). That event is what set Gavin on the course to join Microsoft in May 2021. These days he's having all kinds of fun working with customers on their security challenges and continues to scream **DO THE BASICS** from every rooftop he can find!
 
