@@ -15,7 +15,7 @@ When away from his desk Gavin is having a great time running, cycling, husbandin
  &nbsp;&nbsp;&nbsp; 🌱 &nbsp;&nbsp;&nbsp; Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)<br>
  &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; Small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
  &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; List of the certifications I'm targetting listed in my [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
- &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When not on Teams calls or listening to [Spotify](https://open.spotify.com/user/gavinashton), I've found [ChilledCow](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and promotes flow.<br>
+ &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When not on Teams calls or listening to [Spotify](https://open.spotify.com/user/gavinashton), I've found [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and promotes flow.<br>
  &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about [ransomware](https://aka.ms/ransomware), [Azure AD](https://aka.ms/azureAD), [passwordless](https://aka.ms/gopasswordless), the [MCRA](https://aka.ms/mcra), [CAF](https://aka.ms/CAF), [WAF](https://aka.ms/WAF), [Enterprise Access Model](https://aka.ms/EAM).<br>
  &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is probably on Twitter [@gvnshtn](https://twitter.com/gvnshtn).<br>
  &nbsp;&nbsp;&nbsp; 😄 &nbsp;&nbsp;&nbsp; Pronouns: he/him<br>
