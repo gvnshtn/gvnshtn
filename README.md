@@ -4,9 +4,9 @@
 
 ## I'm a husband, father, and security architect. I work at Microsoft.
 
-Gavin is a senior security cloud solution architect at Microsoft. In the late 90's he found himself administersting users in an NT4 domain. Little did he know this would take him on a journey through Active Directory, MIIS/ILM/FIM/MIM, Azure AD and onwards. He's seen all kinds of merger and aquisition scenarios. Highly secure architectures. Transformation activities. Most notably he was at ground zero at Maersk when [notPetya struck in 2017](https://gvnshtn.com/posts/maersk-me-notpetya/). That event is what set Gavin on the course to join Microsoft in May 2021. These days he's having all kinds of fun working with customers on their security challenges and continues to scream **DO THE BASICS** from every rooftop he can find!
+I'm a senior security cloud solution architect and I work for Microsoft. In the late 90's I found myself administersting users in an NT4 domain. Little did I know this would take me on a journey through Active Directory, MIIS/ILM/FIM/MIM, Azure AD and onwards. Seen all kinds of merger and aquisition scenarios, highly secure architectures, transformation activities. Most notably I was at ground zero at Maersk when [notPetya struck in 2017](https://gvnshtn.com/posts/maersk-me-notpetya/). That event is what set me on the course to join Microsoft in May 2021. These days I'm having all kinds of fun working with customers on their security challenges and continues to scream **DO THE BASICS** from every rooftop I can find!
 
-When away from his desk Gavin is having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
+When away from his desk I'm having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
 
  &nbsp;&nbsp;&nbsp; 🌍 &nbsp;&nbsp;&nbsp; Based in the UK. Pro-EU, send help 🏳️<br>
  &nbsp;&nbsp;&nbsp; 🙂 &nbsp;&nbsp;&nbsp; I like to think I offer expertise, candour and credibility.<br>
