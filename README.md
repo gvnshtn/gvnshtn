@@ -17,6 +17,7 @@ When away from his desk I'm having a great time running, cycling, husbanding, an
  &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; List of the certifications I'm targetting listed in my [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
  &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When not on Teams calls or listening to [Spotify](https://open.spotify.com/user/gavinashton), I've found [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and promotes flow.<br>
  &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about [ransomware](https://aka.ms/ransomware), [Azure AD](https://aka.ms/azureAD), [passwordless](https://aka.ms/gopasswordless), the [MCRA](https://aka.ms/mcra), [CAF](https://aka.ms/CAF), [WAF](https://aka.ms/WAF), [Enterprise Access Model](https://aka.ms/EAM).<br>
+ &nbsp;&nbsp;&nbsp; 🖥️ &nbsp;&nbsp;&nbsp;  Battlestation details at [Kit.io](https://embed.kit.co/gvnshtn/the-battlestation).<br>
  &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is probably on Twitter [@gvnshtn](https://twitter.com/gvnshtn).<br>
  &nbsp;&nbsp;&nbsp; 😄 &nbsp;&nbsp;&nbsp; Pronouns: he/him<br>
 <br><br>
