@@ -17,7 +17,6 @@ In the late 90's I found myself administersting users in an NT4 domain. Little d
 ## Where I exist upon The Internet
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/github-32.png' alt='github' width='32'>](https://github.com/gvnshtn) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-32.png' alt='linkedin' width='32'>](https://www.linkedin.com/in/gvnshtn/) &nbsp;&nbsp;
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/bluesky-32.png' alt='Twitter' width='32'>](https://web-cdn.bsky.app/profile/did:plc:rxfpbamr3zpyw7rw3iozflrh) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/office-7/32/newspaper-32.png' alt='Blog'  width='32'>](https://www.gvnshtn.com) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/spotify-32.png' alt='Spotify' width='32'>](https://open.spotify.com/user/gavinashton)
 <br><br>
