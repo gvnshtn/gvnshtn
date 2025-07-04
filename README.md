@@ -12,15 +12,13 @@ In the late 90's I found myself administersting users in an NT4 domain. Little d
  &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; Listening to [Spotify](https://open.spotify.com/user/gavinashton) or getting into flow state with [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) <br>
  &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about [ransomware](https://aka.ms/ransomware), [Azure AD](https://aka.ms/azureAD), [passwordless](https://aka.ms/gopasswordless), the [MCRA](https://aka.ms/mcra), [CAF](https://aka.ms/CAF), [WAF](https://aka.ms/WAF), [Enterprise Access Model](https://aka.ms/EAM).<br>
  &nbsp;&nbsp;&nbsp; 🖥️ &nbsp;&nbsp;&nbsp;  Battlestation details at [Kit.io](https://embed.kit.co/gvnshtn/the-battlestation).<br>
- &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is probably on BlueSky [@gvnshtn](https://web-cdn.bsky.app/profile/did:plc:rxfpbamr3zpyw7rw3iozflrh).<br>
  &nbsp;&nbsp;&nbsp; 😄 &nbsp;&nbsp;&nbsp; Pronouns: he/him<br>
 <br><br>
 ## Where I exist upon The Internet
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/github-32.png' alt='github' width='32'>](https://github.com/gvnshtn) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-32.png' alt='linkedin' width='32'>](https://www.linkedin.com/in/gvnshtn/) &nbsp;&nbsp;
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-32.png' alt='Twitter' width='32'>](https://twitter.com/gvnshtn) &nbsp;&nbsp;
+[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/bluesky-32.png' alt='Twitter' width='32'>](https://web-cdn.bsky.app/profile/did:plc:rxfpbamr3zpyw7rw3iozflrh) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/office-7/32/newspaper-32.png' alt='Blog'  width='32'>](https://www.gvnshtn.com) &nbsp;&nbsp;
-[<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-32.png' alt='YouTube' width='32'>](https://www.youtube.com/channel/UCVevqxNXF6Y1y2tE9VayJBQ) &nbsp;&nbsp;
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/spotify-32.png' alt='Spotify' width='32'>](https://open.spotify.com/user/gavinashton)
 <br><br>
 ## Recent blogs
