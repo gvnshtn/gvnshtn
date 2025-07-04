@@ -2,23 +2,17 @@
 
 # Hello there, my name is Gavin
 
-## I'm a husband, father, and security architect. I work at Microsoft.
+## I work @ Maersk and own the strategy for identity and access management.
 
-I'm a senior security cloud solution architect and I work for Microsoft. In the late 90's I found myself administersting users in an NT4 domain. Little did I know this would take me on a journey through Active Directory, MIIS/ILM/FIM/MIM, Azure AD and onwards. Seen all kinds of merger and aquisition scenarios, highly secure architectures, transformation activities. Most notably I was at ground zero at Maersk when [notPetya struck in 2017](https://gvnshtn.com/posts/maersk-me-notpetya/). That event is what set me on the course to join Microsoft in May 2021. These days I'm having all kinds of fun working with customers on their security challenges and continues to scream **DO THE BASICS** from every rooftop I can find!
-
-When away from his desk I'm having a great time running, cycling, husbanding, and being a bad dad to three impressionable young minds, filling those heads with all kinds of goofy stuff.
+In the late 90's I found myself administersting users in an NT4 domain. Little did I know this would take me on a journey through Active Directory, MIIS/ILM/FIM/MIM, Azure AD and onwards. Seen all kinds of merger and aquisition scenarios, highly secure architectures, transformation activities. I was at ground zero at Maersk when [notPetya struck in 2017](https://gvnshtn.com/posts/maersk-me-notpetya/), after which I went on adventures and did some stints at risual (now node4), StealthBits (now Netwrix), and then Microsoft. Now back at Maersk having a blast! 
 
  &nbsp;&nbsp;&nbsp; 🌍 &nbsp;&nbsp;&nbsp; Based in the UK. Pro-EU, send help 🏳️<br>
  &nbsp;&nbsp;&nbsp; 🙂 &nbsp;&nbsp;&nbsp; I like to think I offer expertise, candour and credibility.<br>
  &nbsp;&nbsp;&nbsp; 💻 &nbsp;&nbsp;&nbsp; Working on a roadmap and framework to address ransomware.<br>
- &nbsp;&nbsp;&nbsp; 📖 &nbsp;&nbsp;&nbsp; Check out my [manual](https://aka.ms/ManualForGFA)<br>
- &nbsp;&nbsp;&nbsp; 🌱 &nbsp;&nbsp;&nbsp; Studying to pass [SC-200](https://aka.ms/sc200) and [AZ-500](https://aka.ms/az500)<br>
- &nbsp;&nbsp;&nbsp; 🚀 &nbsp;&nbsp;&nbsp; Small but growing collection of qualifications at [Credly](https://www.credly.com/users/gvnshtn/badges)<br>
- &nbsp;&nbsp;&nbsp; 📃 &nbsp;&nbsp;&nbsp; List of the certifications I'm targetting listed in my [MS Learn collection](https://docs.microsoft.com/en-us/users/gvnshtn/collections/8p70f7xyd8oogy).<br>
- &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; When not on Teams calls or listening to [Spotify](https://open.spotify.com/user/gavinashton), I've found [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) helps keep my mind calm and promotes flow.<br>
+ &nbsp;&nbsp;&nbsp; 🎵 &nbsp;&nbsp;&nbsp; Listening to [Spotify](https://open.spotify.com/user/gavinashton) or getting into flow state with [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow) <br>
  &nbsp;&nbsp;&nbsp; 💬 &nbsp;&nbsp;&nbsp; Ask me about [ransomware](https://aka.ms/ransomware), [Azure AD](https://aka.ms/azureAD), [passwordless](https://aka.ms/gopasswordless), the [MCRA](https://aka.ms/mcra), [CAF](https://aka.ms/CAF), [WAF](https://aka.ms/WAF), [Enterprise Access Model](https://aka.ms/EAM).<br>
  &nbsp;&nbsp;&nbsp; 🖥️ &nbsp;&nbsp;&nbsp;  Battlestation details at [Kit.io](https://embed.kit.co/gvnshtn/the-battlestation).<br>
- &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is probably on Twitter [@gvnshtn](https://twitter.com/gvnshtn).<br>
+ &nbsp;&nbsp;&nbsp; 🐦 &nbsp;&nbsp;&nbsp; Best way to find me is probably on BlueSky [@gvnshtn](https://web-cdn.bsky.app/profile/did:plc:rxfpbamr3zpyw7rw3iozflrh).<br>
  &nbsp;&nbsp;&nbsp; 😄 &nbsp;&nbsp;&nbsp; Pronouns: he/him<br>
 <br><br>
 ## Where I exist upon The Internet
